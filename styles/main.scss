@@ -13,6 +13,7 @@
 @import './mixins/responsive';
 @import './mixins/positions';
 @import './mixins/flexbox';
+@import './mixins/scrollbar';
 
 @import './modules/tags';
 @import './modules/avatars';
@@ -29,7 +30,7 @@
 @import './components/drawer-menu';
 @import './components/search-history';
 
-@import './layouts/girds';
+@import './layouts/grids';
 @import './layouts/gnb';
 @import './layouts/sidebar';
 @import './layouts/overlay';
